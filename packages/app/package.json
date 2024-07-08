@@ -50,7 +50,7 @@
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@rjsf/core": "^5.12.1",
     "@rjsf/utils": "^5.14.1",
-    "@spotify/backstage-plugin-soundcheck": "^0.8.2",
+    "@spotify/backstage-plugin-soundcheck": "^0.12.11",
     "history": "^5.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
